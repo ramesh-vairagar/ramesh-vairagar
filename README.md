@@ -30,6 +30,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramesh-vairagar&show_icons=true&locale=en&layout=compact" alt="ramesh-vairagar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramesh-vairagar&" alt="ramesh-vairagar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramesh-vairagar&show_icons=true&locale=en" alt="ramesh-vairagar" /></p>
 
 
 Thank you for visiting my GitHub profile! Together, we can create a better, more connected world through code. 🚀
