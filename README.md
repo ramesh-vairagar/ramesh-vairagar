@@ -3,13 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramesh-vairagar&label=Profile%20views&color=0e75b6&style=flat" alt="ramesh-vairagar" /> </p>
 
+- 🌱 Continuously expand my knowledge and skills.
+
 - 🌱 I’m currently learning **React,SpringBoot**
+
+- 🚀 Turn innovative ideas into practical, real-world solutions.
 
 - 👨‍💻 All of my projects are available at [rameshvairagar-apps.vercel.app](rameshvairagar-apps.vercel.app)
 
 - 💬 Ask me about **Java,SQL,UI Technologies**
 
 - 📫 How to reach me **ramesh.vairagar11@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
