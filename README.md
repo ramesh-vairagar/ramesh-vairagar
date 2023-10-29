@@ -1,19 +1,21 @@
+<br>![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 <h1 align="center">Hi 👋, I'm Ramesh Vairagar</h1>
 <h3 align="center"> A passionate Full Stack developer from India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramesh-vairagar&label=Profile%20views&color=0e75b6&style=flat" alt="ramesh-vairagar" /> </p>
-
+<p align="left"> <a href="https://www.linkedin.com/in/ramesh-vairagar/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
 - 🌱 Continuously expand my knowledge and skills.
 
-- 🌱 I’m currently learning **React,SpringBoot**
+- 🌱 I’m currently learning **React,SpringBoot,Data Structures & Algorithms**
 
 - 🚀 Turn innovative ideas into practical, real-world solutions.
 
 - 👨‍💻 All of my projects are available at [rameshvairagar-apps.vercel.app](rameshvairagar-apps.vercel.app)
 
-- 💬 Ask me about **Java,SQL,UI Technologies**
+- 💬 Ask me about **Java,SQL,HTML,Css,Javascript,J2EE**
 
 - 📫 How to reach me **ramesh.vairagar11@gmail.com**
+- ⚡ Fun fact **Codes never lie, but humans do** 😂😁
 
 
 <h3 align="left">Connect with me:</h3>
