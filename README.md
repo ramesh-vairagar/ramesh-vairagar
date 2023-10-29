@@ -4,6 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramesh-vairagar&label=Profile%20views&color=0e75b6&style=flat" alt="ramesh-vairagar" /> </p>
 <p align="left"> <a href="https://www.linkedin.com/in/ramesh-vairagar/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
+
 - 🌱 Continuously expand my knowledge and skills.
 
 - 🌱 I’m currently learning **React,SpringBoot,Data Structures & Algorithms**
